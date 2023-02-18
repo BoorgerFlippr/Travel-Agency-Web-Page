@@ -1,0 +1,124 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+}
+
+header
+{
+    background-color: darkblue;
+    width: 775px;
+    height: 25px;
+}
+
+ .hdft
+{
+    display: inline;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+
+banner img
+{
+    width: 775px;
+    height: 370px;
+}
+
+banner h1
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+    position: absolute;
+    top: 150px;
+    left: 185px;
+    padding-bottom: 5px;
+}
+
+banner h2
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    position: absolute;
+    top: 180px;
+    left: 235px;
+    padding-top: 5px;
+}
+
+.hdr
+{
+    margin-left: 290px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+adventure
+{
+    margin-left: 23px;
+    margin-right: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 190px);
+}
+
+.adv
+{
+    height: 250px;
+    width: 165px;
+    padding-top: 10px;
+}
+
+.tag
+{
+    font-size: 9.75px;
+}
+
+span
+{ 
+    font-weight: bold;
+
+}
+
+.book
+{
+    display: inline;
+    background-color: #F6565C;
+    color: white;
+    font-size: 9.75px;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.soon
+{
+    display: inline;
+    background-color: #93A39D;
+    color: white;
+    font-size: 9.75px;
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+footer
+{
+    background-color: darkblue;
+    width: 775px;
+    height: 25px;
+}
+
+footer p
+{
+ margin-left: 325px;
+}
